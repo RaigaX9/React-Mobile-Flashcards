@@ -5,16 +5,16 @@ Udacity Nanodegree project for creating a Mobile Flashcards in React Native.
 This project is done from Udacity's React Nanodegree where we have to create a mobile flashcard game using React
 Native
 
-##Instructions
+## Instructions
 
 1. Open up the command prompt and navigate to the folder, `mobile-flashcards`.
 2. Do `yarn install` or `npm install`.
 3. Do `yarn start` or `npm start`.
 4. Use a mobile phone and have it read the QR code using the Expo app.
 
-This was done by using an Android phone (Galaxy S9 Plus)
+Note: This was done by using an Android phone (Galaxy S9 Plus)
 
-##Resources
+## Resources
 
 Udacity React Native Lecture Videos
 
