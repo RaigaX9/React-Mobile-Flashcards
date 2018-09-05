@@ -9,10 +9,6 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
     },
-    text: {
-        margin: 10,
-        fontSize: 30
-    },
     textInput: {
         width: 300,
         height: 50,
@@ -81,7 +77,7 @@ export default class AddDeck extends Component {
     render(){
         return (
             <KeyboardAvoidingView behavior='padding' style={styles.container}>
-                <Text style={styles.text}>
+                <Text style={{margin: 10, fontSize: 30}}>
                     Create a name of your new deck
                 </Text>
                 <TextInput style={styles.textInput} value={this.state.deckName} onChangeText={this.handleTextChange} />
