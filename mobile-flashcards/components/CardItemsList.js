@@ -3,7 +3,6 @@ import { View, Text, StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
     listItem: {
-
         margin: 15,
         paddingTop: 8,
         paddingBottom: 8,
